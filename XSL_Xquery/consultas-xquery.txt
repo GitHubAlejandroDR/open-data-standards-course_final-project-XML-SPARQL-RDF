@@ -1,0 +1,35 @@
+## 1º Consulta
+xquery version "3.1";
+distinct-values(
+for $elem in collection(/db/CITIES_transformed)//Capture
+where $elem/ScientificClassification/Class = "Aves"
+order by $elem/CommercialInformation/Term
+return data($elem/CommercialInformation/Term)
+)
+
+#2º Consulta
+xquery version "3.1";
+distinct-values(
+for $elem in count(collection(/db/CITIES_transformed)//Capture/ScientificClassification[Taxon="Haliaeetus albicilla"])
+return data($elem)
+)
+
+
+## 3º Consulta
+xquery version "3.1";
+distinct-values(
+for $elem in collection(/db/CITIES_transformed)//Capture
+where $elem/ScientificClassification[Class="Aves"] and $elem/CommercialInformation[Term="bodies"]
+return data($elem/ScientificClassification)
+)
+
+## 4º Consulta
+xquery version "3.1";
+distinct-values(
+for $elem in collection(/db/CITIES_transformed)//Capture
+where starts-with($elem/ScientificClassification/Class, "Av")
+return data($elem/ScientificClassification/Class)
+)
+
+
+
