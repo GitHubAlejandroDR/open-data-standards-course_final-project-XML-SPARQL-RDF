@@ -195,9 +195,7 @@
 
     <!-- http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Especie -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Especie">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Captura"/>
-    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Especie"/>
     
 
 
@@ -236,9 +234,7 @@
 
     <!-- http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Medio -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Medio">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Captura"/>
-    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Medio"/>
     
 
 
@@ -268,17 +264,13 @@
 
     <!-- http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Pais -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Pais">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Captura"/>
-    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Pais"/>
     
 
 
     <!-- http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Proposito -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Proposito">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Captura"/>
-    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Proposito"/>
     
 
 
@@ -292,9 +284,7 @@
 
     <!-- http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Term -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Term">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Captura"/>
-    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/rafalete/ontologies/2022/10/untitled-ontology-20#Term"/>
     
 
 
