@@ -13,7 +13,7 @@ Open Data Standard final project course.
 - Design a website that uses XML as data supported
 - Define XSLT transformations based on how data is shown on the website
 - Define XQuery queries on XML data
-- Modelling website data how RDF graph
+- Modelling website data using RDF graph
 - Define SPARQL queries website data
 
 
