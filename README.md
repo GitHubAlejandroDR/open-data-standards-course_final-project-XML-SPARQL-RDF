@@ -1,6 +1,6 @@
-# Open Data Standard Project
+# Open Data Standards Project
 
-Open Data Standard final project course. 
+Open Data Standards final project course. 
 
 ## Technologies
 
