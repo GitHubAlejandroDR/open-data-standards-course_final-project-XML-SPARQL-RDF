@@ -1,6 +1,8 @@
-# Open Data Standards Project
+# Database Managment System Design for CITIES Website
 
-Open Data Standards final project course. 
+## Description 
+
+XML and RDF markup languages are used as data support for the design of a database management system on a simulated CITIES web site. XSLT transformations, XQuery and SPARQL queries were created based on how the data is presented on the web site.
 
 ## Technologies
 
